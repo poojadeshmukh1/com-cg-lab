@@ -26,6 +26,6 @@ public class Lab1Ex7 {
 		System.out.println("Please Enter an interger - ");
 		int num = sc.nextInt();
 		checkNumber(num);
-	}
+	}//edited
 }
 
