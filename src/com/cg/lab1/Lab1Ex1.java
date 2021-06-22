@@ -17,7 +17,7 @@ public class Lab1Ex1 {
 			int d;
 			d=n%10;
 			sum=sum+(d*d*d);
-			//edited eeee
+			//edited 
 			
 		}
 		System.out.println("sum of qubes of digits"+sum);
