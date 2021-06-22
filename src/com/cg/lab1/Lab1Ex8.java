@@ -21,6 +21,6 @@ public class Lab1Ex8 {
             System.out.println("It is not Power of a two number");
          };
     }
-	
+	//edited
 
 }
